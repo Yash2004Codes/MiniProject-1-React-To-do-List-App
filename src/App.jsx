@@ -1,4 +1,4 @@
-import Chatgpt from "./chatgpt";
+
 import ToDoApp from "./ToDoApp";
 
 
